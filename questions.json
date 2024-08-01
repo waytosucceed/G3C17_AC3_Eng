@@ -1,0 +1,271 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which word is a preposition in this sentence: 'The ball rolled under the table.'",
+    "options": [
+      "ball",
+      "rolled",
+      "under",
+      "table"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "The cat is hiding _____ the couch.",
+    "options": [
+      "on",
+      "in",
+      "under",
+      "between"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "We will meet you _____ the library at 3 PM.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "over"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "She placed the book _____ the shelf.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "What is the prepositional phrase in this sentence: 'The dog chased the squirrel around the tree.'",
+    "options": [
+      "The dog",
+      "chased the squirrel",
+      "around the tree",
+      "the tree"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "We arrived ___ the airport two hours early.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "He was born _____ 1990.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "by"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Where is the prepositional phrase in this sentence: 'After lunch, we played at the park.'",
+    "options": [
+      "After lunch",
+      "we played",
+      "at the park",
+      "Both a and c"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "She left her keys _____ of the kitchen counter.",
+    "options": [
+      "in the surface",
+      "on the surface",
+      "above the surface",
+      "between the surface"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "What is the prepositional phrase in this sentence: 'The book is on the shelf.'",
+    "options": [
+      "The book",
+      "is",
+      "on the shelf",
+      "shelf"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which of these is a preposition?",
+    "options": [
+      "Cat",
+      "Played",
+      "In",
+      "Loud"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "He will meet us _____ the entrance of the park.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "over"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "We have been friends _____ high school.",
+    "options": [
+      "for",
+      "in",
+      "since",
+      "during"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "What is the prepositional phrase in this sentence: 'The bird flew over the house.'",
+    "options": [
+      "The bird",
+      "flew",
+      "over the house",
+      "house"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which option has a preposition?",
+    "options": [
+      "Singing",
+      "Loudly",
+      "Between",
+      "Happy"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "The treasure is buried _____ the old oak tree.",
+    "options": [
+      "at",
+      "under",
+      "on",
+      "none of the above"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Where is the prepositional phrase in this sentence: 'We went to the beach with our friends.'",
+    "options": [
+      "We went",
+      "to the beach",
+      "with our friends",
+      "Both b and c"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "What is the prepositional phrase in this sentence: 'The butterfly landed on the flower.'",
+    "options": [
+      "The butterfly",
+      "landed",
+      "on the flower",
+      "flower"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "'Under the bed' is a prepositional phrase.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "'The girl walked by the park' has a preposition.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "She placed the vase ___ the table.",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "by"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "What is the prepositional phrase in this sentence: 'The aeroplane flew through the clouds.'",
+    "options": [
+      "The aeroplane",
+      "flew",
+      "through the clouds",
+      "clouds"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q23.",
+    "question": "'The boy played' has a preposition.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q24.",
+    "question": "We travelled _____ the river by boat.",
+    "options": [
+      "on",
+      "by",
+      "along",
+      "in"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q25.",
+    "question": "She is sitting _____ her friends in the cafeteria.",
+    "options": [
+      "between",
+      "among",
+      "beside",
+      "around"
+    ],
+    "correct": 1
+  }
+]
